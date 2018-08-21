@@ -17,3 +17,7 @@ https://gist.github.com/kiote/c986c4b7c9aaddb3474ae6e67686b100
 ## Demo
 
 https://youtu.be/ZXmhsGKtBYs
+
+## Why Rustem?
+
+https://www.youtube.com/watch?v=bOhPXDLe2y4
