@@ -1,8 +1,14 @@
 # rustem
 
+## Hot word detection 
+
 based on Snowboy hotword detection system
 
-hotword model: https://snowboy.kitt.ai/hotword/25712
+hotword model: https://snowboy.kitt.ai/hotword/25712 (please help to record more samples)
+
+## Text to speech
+
+Mozilla DeepSpeech https://github.com/mozilla/DeepSpeech
 
 ## some useful Rasberry commands
 
