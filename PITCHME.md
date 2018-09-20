@@ -1,4 +1,4 @@
-## scikit-learn bugfixes
+## scikit-learn library contribution 
 
 - why opensource
 - why scikit-learn
